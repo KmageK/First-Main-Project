@@ -1,0 +1,241 @@
+body {
+    display: flex;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    height: 100vh;
+    flex-direction: column;
+  
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    
+}
+
+.Sue
+{
+font-size: 26px;
+padding-bottom: 16px;
+
+}
+
+#cat img {
+width: 150px;
+height: 150px;
+
+}
+
+#cat {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+#car img {
+    width: 150px;
+    height: 150px;
+    
+    }
+    
+    #car {
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center
+    }
+
+#dog img {
+    width: 150px;
+    height: 150px;
+}
+
+#dog {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+#neighbor img {
+    width: 150px;
+    height: 150px;
+}
+
+#neighbor {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.quote
+    {
+        font-size: 26px;
+        color: #1F2937;
+        width: 500px;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        font-style: italic;
+
+    }
+
+
+.header {
+    background: #1F2937;
+    color: white;
+    height: 10%;
+    display: flex;
+}
+
+.headerleft {
+    display: flex;
+    flex: 1;
+    padding: 12px
+}
+
+.headerright {
+    display: flex;
+    gap: 20px;
+    padding: 12px
+}
+
+
+
+
+.boxes {
+height: inherit;
+
+
+
+
+}
+
+
+.boxone {
+    background-color: #1F2937;
+    height: 20%;
+    
+    display: flex;
+    justify-content: center;
+  
+}   
+
+.boxtwo {
+    background-color: white;
+   
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 20%;
+}
+
+.boxthree {
+    background-color: #E5E7EB;
+    
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 20%;
+}
+
+.boxfour {
+
+    background-color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 20%;
+}
+
+.footer {
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    height: 10%;
+    color: white;
+}
+
+#awesome {
+color: white;
+font-size: 48px;
+width: 300px
+
+}
+
+#thiswebsite {
+color: #E5E7EB;
+font-size: 18px;
+
+
+}
+
+.quotetwo {
+display: flex;
+width: 400px;
+height: 60px;
+justify-content: flex-end
+
+}
+
+.bot {
+    display: flex;
+    gap: 60px;
+}
+
+.boxfour {
+    display: flex;
+    flex-direction: row;
+    background-color: #3882F6;
+    gap: 80px;
+    align-items: center;
+    
+}
+
+#time {
+    color: white
+}
+
+#callnow {
+    color: #E5E7EB;
+}
+
+#sign {
+    color: white;
+    border: 20px;
+    border-color: white;
+    border-width: 1px;
+    border-style: solid;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px
+}
+
+#signup {
+    color: white;
+    background-color: #3882F6;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    width: 60px;
+
+}
+
+li {
+    list-style-type: none;
+   
+
+}
